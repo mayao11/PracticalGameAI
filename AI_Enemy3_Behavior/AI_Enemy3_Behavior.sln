@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI_Enemy3_Behavior", "AI_Enemy3_Behavior.csproj", "{D044EF9A-911B-3DBD-E82D-3726BDF9FA0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI_Enemy3_Behavior.Editor", "AI_Enemy3_Behavior.Editor.csproj", "{EDE48BB4-5CA2-5668-2375-11F925BC6D92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D044EF9A-911B-3DBD-E82D-3726BDF9FA0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D044EF9A-911B-3DBD-E82D-3726BDF9FA0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D044EF9A-911B-3DBD-E82D-3726BDF9FA0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D044EF9A-911B-3DBD-E82D-3726BDF9FA0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDE48BB4-5CA2-5668-2375-11F925BC6D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE48BB4-5CA2-5668-2375-11F925BC6D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE48BB4-5CA2-5668-2375-11F925BC6D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE48BB4-5CA2-5668-2375-11F925BC6D92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
